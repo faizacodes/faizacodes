@@ -2,7 +2,7 @@
 
 <p align="center">My name is <strong>Faiza</strong> <img src="./images/aboutMe/smile.png" alt="smile" width="16"> I'm delighted to meet you and, in advance, thanks for stopping by!</p>
 
-<p align="center">I am <img src="./images/aboutMe/code.png" alt="code" width="16"> <em><strong>Go Developer</strong></em> <img src="./images/aboutMe/code.png" alt="code" width="16"> thanks to <a href="https://adalab.es/" title="Adalab" target="_blank"><img src="./images/aboutMe/adalab.png" alt="adalab" width="55"><img src="./images/aboutMe/logo.png" alt="logo" width="15"></a> and his intensive web programming course.</p>
+<p align="center"><img src="./images/aboutMe/code.png" alt="code" width="16"> <em><strong> I am Golang Developer</strong></em> <img src="./images/aboutMe/code.png" alt="code" width="16"></p>
 
 <p align="center">I am currently continuing to form <img src="./images/aboutMe/computer.png" alt="computer" width="20">to give my best in this immense and exciting technological universe <img src="./images/aboutMe/galaxy.png" alt="galaxy" width="20"> but, for the moment, I share with you what I have learned:</p>
 
